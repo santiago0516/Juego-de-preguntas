@@ -1,11 +1,3 @@
-/*function LaTeX(code) {
-  return `https://latex.codecogs.com/svg.image?\\large&space;${code}`;
-}
-
-function opnLaTeX(code) {
-  return `<img src="${LaTeX(code)}" style="height:40px">`;
-}*/
-
 let baseDePreguntas = [
   {
     pregunta: "¿Cuantos litros de sangre tiene una persona adulta?",
